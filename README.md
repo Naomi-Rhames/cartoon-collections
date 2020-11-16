@@ -18,7 +18,7 @@ There are four methods to complete in this lab:
 
 #### Method 1 — `roll_call_dwarves`
 
-![dwarves](https://s3-us-west-2.amazonaws.com/web-dev-readme-photos/cartoon-collections/dwarves.jpg)
+![dwarves](https://s3-us-west-2.amazonaws.com/web-dev-readme-photos/cartoon-collections/dwar1`ves.jpg)
 
 This method should accept an array of dwarf names, for instance:
 
